@@ -10,8 +10,6 @@
 
 * Многопоточность
 
-
-
 #### Kotlin
 
 - Базовый синтаксис
@@ -30,8 +28,6 @@
 
 - MongoDB (optional)
 
-
-
 #### Spring:
 
 * Базовые понятия
@@ -44,19 +40,13 @@
 
 * Hibernate
 
-
-
 #### Spring Cloud:
 
 * Spring Cloud
 
 * Kafka
 
-* 
-
 * Rabbit MQ (optional)
-
-
 
 #### Системы сборки
 
@@ -70,8 +60,6 @@
 
 - Git Flow (optional)
 
-
-
 #### Контейнер
 
 - Docker
@@ -80,15 +68,12 @@
 
 - Kubernetes  (optional)
 
-
-
 #### API
 
 - REST
 
 - GraphQL
-
+- Postman
 
 #### Тестирование
 - JUnit5
-
