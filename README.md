@@ -2,78 +2,69 @@
 
 #### Java:
 
-* Базовый синтксис
+ - Базовый синтксис
+ - ООП
+ - Коллекции
+ - Многопоточность
+ - SOLID
 
-* ООП
+#### Kotlin:
 
-* Коллекции
+ - Базовый синтаксис
+ - Корутины
 
-* Многопоточность
+#### Базы данных:
 
-#### Kotlin
-
-- Базовый синтаксис
-
-- ......
-
-- ......
-
-#### Базы данных
-
-- PostgreSQL
-
-- MySQL (optional)
-
-- Cassandra (optional)
-
-- MongoDB (optional)
+ - PostgreSQL
+ - MySQL (optional)
+ - Cassandra (optional)
+ - MongoDB (optional)
 
 #### Spring:
 
-* Базовые понятия
-
-* Spring Boot
-
-* Spring Security
-
-* Spring Data
-
-* Hibernate
+ - Базовые понятия
+ - Spring Boot
+ - Spring Security
+ - Spring Data
+ - Hibernate
 
 #### Spring Cloud:
 
-* Spring Cloud
+ - Spring Cloud
+ - Kafka
+ - Rabbit MQ (optional)
 
-* Kafka
+#### Системы сборки:
 
-* Rabbit MQ (optional)
-
-#### Системы сборки
-
-* Maven
-
-* Gradle
+ - Maven
+ - Gradle
 
 #### Контроль версий:
 
-- Git
+ - Git
+ - Git Flow (optional)
 
-- Git Flow (optional)
+#### Контейнер:
 
-#### Контейнер
+ - Docker
+ - Docker Compose
+ - Kubernetes  (optional)
 
-- Docker
+#### API:
 
-- Docker Compose
+ - REST
+ - gRPC
+ - GraphQL
+ - Postman
 
-- Kubernetes  (optional)
+#### Тестирование:
 
-#### API
+ - JUnit5
+ - Mockito
 
-- REST
+#### Дополнительно:
 
-- GraphQL
-- Postman
-
-#### Тестирование
-- JUnit5
+ - Redis
+ - JPA
+ - JDBC
+ - Mockito
