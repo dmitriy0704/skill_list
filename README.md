@@ -62,6 +62,8 @@
 
  - JUnit5
  - Mockito
+ - TestNG
+ - TeamCity
 
 #### Дополнительно:
 
@@ -69,3 +71,5 @@
  - JPA
  - JDBC
  - Mockito
+ 
+ Reactive Spring: Spring WebFlux, R2DBC, Reactive Spring Data—
